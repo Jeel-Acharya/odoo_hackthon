@@ -1,2 +1,2 @@
 # odoo_hackthon
-This is my first hechthon 
+This is my first heckthon 
